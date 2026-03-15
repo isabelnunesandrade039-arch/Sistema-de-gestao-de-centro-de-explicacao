@@ -1,3 +1,21 @@
+Entrevista A
+
+1.Boa tarde, como podemos ajudar para a criacao do sistema?
+R:Preciso digitalizar o meu centro de explicacaoo
+
+2.Como funciona a gerencia do centro atualmente?
+R:De forma maunual
+
+3.Como e feita a inscricao dos alunos?
+R:A inscricao e feita de forma manual, onde os encarregados entregam documentos de identificao na secretaria e depois eram colocado os ddos numa planilha no excel.
+
+4.Qual e a quantidade de alunos em cada turma?
+R:30 alunos em cada turma
+
+5.Quem sao as pessoas que iram utilizar o sistema
+R:A adiminstracao e professore
+
+
 Entrevista do B
 
 1-Boa tarde1 Recebe a informacao que necessitas de um Sistema de gestao poderias me falar mais um pouco sobre o mesmo?
