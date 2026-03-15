@@ -1,4 +1,4 @@
-# 1. Sistema de Biblioteca
+# 1. 1. Sistema de Gestao Academica para ensino primario
 
 # 1.1 Iniciação e Requisitos
 1.1.1 Definição do problema
